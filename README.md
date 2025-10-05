@@ -1,4 +1,9 @@
 # SkyHack 3.0 - OneLifeItsWorthAnAttempt 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ebc2bcb3-bc97-4c59-b5cf-a81206a2bbe5" width="300" height="500" />
+  <img src="https://pbs.twimg.com/media/GJcbjIzW8AA3lWe.jpg:large" width="500" height="500" />
+</p>
+
 ## Team:
 - Sarthak Kapila
 - Harjasuday Kakkar
