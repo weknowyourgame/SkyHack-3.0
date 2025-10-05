@@ -1,4 +1,7 @@
-### SkyHack 3.0
+# SkyHack 3.0 - OneLifeItsWorthAnAttempt 
+## Team:
+- Sarthak Kapila
+- Harjasuday Kakkar
 
 [**PPT LINK**](https://www.canva.com/design/DAG00q5JirM/EYro2KmEsWkqLksX9wSkKQ/edit?utm_content=DAG00q5JirM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
