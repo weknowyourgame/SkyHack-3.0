@@ -1,0 +1,12 @@
+Metric,Value
+Total Flights,"8,099"
+Difficult Flights,"2,036 (25.1%)"
+High-Risk Flights,"4,016 (49.6%)"
+Total Delay Minutes,"171,577"
+Avg Delay (All),21.2 min
+Avg Delay (Difficult),37.1 min
+Destinations Analyzed,188
+Chronically Difficult Destinations,65
+Total Recommendations,31
+High Priority Actions,28
+Potential Annual Hours Saved,"9,199"

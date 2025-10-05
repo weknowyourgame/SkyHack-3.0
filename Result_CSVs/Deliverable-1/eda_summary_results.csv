@@ -1,0 +1,14 @@
+Metric,Value
+Average Departure Delay (minutes),21.18
+Percentage of Late Departures (%),26.71
+Flights with Ground Time Risk,652
+Percentage with Ground Time Risk (%),8.05
+Average Transfer to Checked Bag Ratio,3.7179
+Average Load Factor (%),102.42
+Correlation: Load Factor vs Delay,-0.1502
+Average SSRs per Flight,48.75
+Average Children per Flight,5.18
+Average Lap Children per Flight,0.69
+Average Basic Economy Passengers,10.18
+Average Stroller Users per Flight,1.09
+Average Hot Transfers per Flight,4.56

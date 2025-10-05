@@ -1,0 +1,5 @@
+Issue,Destinations_Affected,Flights_Affected,Avg_Delay_Impact,Total_Delay_Minutes,Priority_Score
+Chronic Delays,10,2163,81.9,177216.0,1772.16
+High Passenger Load,10,6872,16.7,114953.0,1149.53
+High Transfer Bag Ratio,10,2021,26.2,53047.0,530.47
+Tight Turnaround Times,1,780,71.9,56062.0,56.06

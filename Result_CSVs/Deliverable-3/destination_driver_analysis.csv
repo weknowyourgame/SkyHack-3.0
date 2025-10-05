@@ -1,0 +1,11 @@
+Destination,Primary_Driver,Secondary_Driver,Tertiary_Driver,Primary_Impact,Flights,Avg_Difficulty
+BRU,International Flight,Tight Turnaround %,Heavy Baggage,9.077663909124583,15,83.616
+GRU,International Flight,Heavy Baggage,Tight Turnaround %,9.077663909124583,15,68.75
+CDG,International Flight,Tight Turnaround %,High Transfer Bags,9.077663909124583,15,69.729
+FRA,International Flight,Heavy Baggage,Tight Turnaround %,9.077663909124583,30,70.612
+EDI,International Flight,Heavy Baggage,Tight Turnaround %,9.077663909124583,15,64.085
+DUB,International Flight,Tight Turnaround %,Heavy Baggage,9.077663909124583,14,70.296
+SNN,International Flight,Heavy Baggage,Tight Turnaround %,9.077663909124583,15,63.72
+LHR,International Flight,Heavy Baggage,High Transfer Bags,9.077663909124583,45,58.699
+MUC,International Flight,Tight Turnaround %,Heavy Baggage,9.077663909124583,15,66.541
+AMS,International Flight,Tight Turnaround %,Heavy Baggage,9.077663909124583,17,66.571

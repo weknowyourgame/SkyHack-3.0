@@ -1,0 +1,16 @@
+Destination,Flight_Number,Avg_Delay,Occurrences,Recommendations
+ASE,5251,142.4,17,Consider schedule shift to off-peak hours
+SBN,5274,123.9,15,Consider schedule shift to off-peak hours
+STL,4518,103.0,15,Consider schedule shift to off-peak hours
+FRA,907,95.2,15,Consider schedule shift to off-peak hours; Flag for pre-flight ops briefing
+LAX,2155,93.6,15,Consider schedule shift to off-peak hours
+LHR,920,92.6,15,Consider schedule shift to off-peak hours
+LAF,5051,90.7,10,Consider schedule shift to off-peak hours
+LNK,5314,87.8,15,Increase scheduled ground time (current: -0.08x minimum); Consider schedule shift to off-peak hours
+GSO,4188,85.7,15,Consider schedule shift to off-peak hours
+MSP,1564,84.5,15,Consider schedule shift to off-peak hours
+CMH,1492,83.8,15,Increase scheduled ground time (current: 0.96x minimum); Consider schedule shift to off-peak hours
+EWR,2133,81.2,15,Consider schedule shift to off-peak hours
+HSV,5538,77.1,14,Consider schedule shift to off-peak hours
+FWA,5382,74.9,14,Increase scheduled ground time (current: -0.57x minimum); Consider schedule shift to off-peak hours
+OMA,5737,74.2,12,Consider schedule shift to off-peak hours
